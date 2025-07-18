@@ -1,5 +1,5 @@
-## Oi, eu sou a Rebecca!
+## Oi 👋, eu sou a Rebecca!
 
-## Graduanda em Ciências Sociais com experiência em análise e visualização de dados utilizando R. Atualmente, em processo de aprendizagem de Python, HTML, CSS e JavaScript, com foco em ampliar competências técnicas na área de análise de dados.
+ Graduanda em Ciências Sociais com experiência em análise e visualização de dados utilizando R. Atualmente, em processo de aprendizagem de Python, HTML, CSS e JavaScript, com foco em ampliar competências técnicas na área de análise de dados.
 
 
